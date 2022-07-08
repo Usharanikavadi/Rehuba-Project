@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-08T14:30:15 GMT+05:30" name="Suite" finished-at="2022-07-08T14:31:13 GMT+05:30" duration-ms="57670">
+    <groups>
+    </groups>
+    <test started-at="2022-07-08T14:30:15 GMT+05:30" name="Test" finished-at="2022-07-08T14:31:13 GMT+05:30" duration-ms="57670">
+      <class name="DDFrameWork.Register">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:16 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:30:20 GMT+05:30" duration-ms="4039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="reg4(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:20 GMT+05:30" name="reg4" data-provider="getData" finished-at="2022-07-08T14:30:21 GMT+05:30" duration-ms="1228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Usharani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kavadi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9160201736]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[usha@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[911203655272]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Usharani]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[usha123456]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[usha123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:21 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:30:22 GMT+05:30" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:22 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:30:25 GMT+05:30" duration-ms="2469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="reg4(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:25 GMT+05:30" name="reg4" data-provider="getData" finished-at="2022-07-08T14:30:26 GMT+05:30" duration-ms="1146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fghj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rrtutut]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5657]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[4534]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[567]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:26 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:30:27 GMT+05:30" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:27 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:30:30 GMT+05:30" duration-ms="3419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="reg4(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:30 GMT+05:30" name="reg4" data-provider="getData" finished-at="2022-07-08T14:30:31 GMT+05:30" duration-ms="1137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gurudevi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9110364386]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[guru@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[199923456778]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[guru1234]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[devi1234]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[devi1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Register@231f98ef]" started-at="2022-07-08T14:30:31 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:30:32 GMT+05:30" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- DDFrameWork.Register -->
+      <class name="DDFrameWork.Login">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:02 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:31:04 GMT+05:30" duration-ms="1920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:04 GMT+05:30" name="test" data-provider="getData" finished-at="2022-07-08T14:31:04 GMT+05:30" duration-ms="250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SriRama123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ram12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:04 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:31:05 GMT+05:30" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:05 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:31:06 GMT+05:30" duration-ms="1801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:06 GMT+05:30" name="test" data-provider="getData" finished-at="2022-07-08T14:31:07 GMT+05:30" duration-ms="297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2312]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:07 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:31:07 GMT+05:30" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:07 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:31:09 GMT+05:30" duration-ms="1760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:09 GMT+05:30" name="test" data-provider="getData" finished-at="2022-07-08T14:31:09 GMT+05:30" duration-ms="274" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Usharani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[usha1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:09 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:31:10 GMT+05:30" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:10 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:31:12 GMT+05:30" duration-ms="1599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:12 GMT+05:30" name="test" data-provider="getData" finished-at="2022-07-08T14:31:12 GMT+05:30" duration-ms="277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ram123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Login@5f8e8a9d]" started-at="2022-07-08T14:31:12 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:31:13 GMT+05:30" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- DDFrameWork.Login -->
+      <class name="DDFrameWork.Booking">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:32 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:30:35 GMT+05:30" duration-ms="2931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="booking3(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:35 GMT+05:30" name="booking3" data-provider="getData" finished-at="2022-07-08T14:30:35 GMT+05:30" duration-ms="446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23445]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123246666776]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ram@gmai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:35 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:30:36 GMT+05:30" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:36 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:30:39 GMT+05:30" duration-ms="3012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="booking3(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:39 GMT+05:30" name="booking3" data-provider="getData" finished-at="2022-07-08T14:30:40 GMT+05:30" duration-ms="456" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SriRam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[S]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2344677238]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rani@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:40 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:30:40 GMT+05:30" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:40 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:30:43 GMT+05:30" duration-ms="2899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="booking3(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:43 GMT+05:30" name="booking3" data-provider="getData" finished-at="2022-07-08T14:30:44 GMT+05:30" duration-ms="462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Usharani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kavadi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9110368421]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kk@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.Booking@6f204a1a]" started-at="2022-07-08T14:30:44 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:30:44 GMT+05:30" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- DDFrameWork.Booking -->
+      <class name="DDFrameWork.MainPage">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:DDFrameWork.MainPage@2de56eb2]" started-at="2022-07-08T14:30:44 GMT+05:30" name="beforeMethod" finished-at="2022-07-08T14:30:46 GMT+05:30" duration-ms="1543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="mainpage()[pri:0, instance:DDFrameWork.MainPage@2de56eb2]" started-at="2022-07-08T14:30:46 GMT+05:30" name="mainpage" finished-at="2022-07-08T14:31:01 GMT+05:30" duration-ms="15402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainpage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:DDFrameWork.MainPage@2de56eb2]" started-at="2022-07-08T14:31:01 GMT+05:30" name="afterMethod" finished-at="2022-07-08T14:31:02 GMT+05:30" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- DDFrameWork.MainPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
